@@ -3,8 +3,8 @@
 Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como Analista de Web Design, com experiência em UI/UX Design, desenvolvimento de websites institucionais, blogs, lojas virtuais e sites para imobiliárias. Atualmente, estou estudando desenvolvimento frontend e iOS para uma possível mudança de carreira
 
 <div>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=snoorky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky&theme=midnight-purple&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snoorky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky&theme=midnight-purple&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
