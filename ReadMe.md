@@ -1,22 +1,23 @@
-## Oii eu sou Raphael Vitor, estudando de programação web e mobile.
+## Oii eu sou Raphael Vitor, estudante de programação mobile.
 
-Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como Analista de Web Design, com experiência em UI/UX Design, desenvolvimento de websites institucionais, blogs, lojas virtuais e sites para imobiliárias. Atualmente, estou estudando desenvolvimento frontend e iOS para uma possível mudança de carreira
+Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como Analista de Web Design, com experiência em UI/UX Design, desenvolvimento de websites institucionais, blogs, lojas virtuais e sites para imobiliárias. Atualmente, estou estudando desenvolvimento mobile para uma mudança de carreira.
 
-<br>
-<div>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api?username=snoorky&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky&theme=midnight-purple&langs_count=16"/>
-</div>
-<br>
 <div style="display: inline_block">
   <img align="center" alt="Raphael-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Raphael-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Raphael-SASS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="Raphael-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Raphael-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Raphael-ANGULAR" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Raphael-FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Raphael-SWIFT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
+  <img align="center" alt="Raphael-KOTLIN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+</div>
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=snoorky&count_private=true&hide=prs,contribs&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky&layout=compact" />
 </div>
 
 ##
