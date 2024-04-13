@@ -1,4 +1,4 @@
-## Oii eu sou Raphael Vitor, estudante de programação mobile.
+## Oii, eu sou Raphael Vitor, estudante de programação mobile.
 
 Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como Analista de Web Design, com experiência em UI/UX Design, desenvolvimento de websites institucionais, blogs, lojas virtuais e sites para imobiliárias. Atualmente, estou estudando desenvolvimento mobile para uma mudança de carreira.
 
@@ -8,11 +8,23 @@ Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como 
   <img align="center" alt="Raphael-SASS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="Raphael-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Raphael-TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="RAPHAEL-REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Raphael-ANGULAR" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  
   <img align="center" alt="Raphael-FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Raphael-CANVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+  
   <img align="center" alt="Raphael-SWIFT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="Raphael-KOTLIN" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  
+  <img align="center" alt="Raphael-VSCODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Raphael-XCODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg">
+  <img align="center" alt="Raphael-ANDROID-STUDIO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  
+  <img align="center" alt="Raphael-FIREBASE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  
+  <img align="center" alt="Raphael-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Raphael-TRELLO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div>
 <br>
 <div>
