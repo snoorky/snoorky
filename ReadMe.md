@@ -22,9 +22,6 @@ Formado em Ciência da Computação pela UNIP em 2023. Trabalho na BEFORCE como 
   <img align="center" alt="Raphael-ANDROID-STUDIO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   
   <img align="center" alt="Raphael-FIREBASE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-  
-  <img align="center" alt="Raphael-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="Raphael-TRELLO" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div>
 <br>
 <div>
