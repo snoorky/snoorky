@@ -23,7 +23,7 @@
 
 ### Frontend and Web
 
-<div style="display:inline_block;margin-right: 80px">
+<div style="display:inline_block;margin-right:80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -33,21 +33,21 @@
 
 ### Mobile
 
-<div style="display:inline_block;margin-right: 80px">
+<div style="display:inline_block;margin-right:80px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="VSCode" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
 </div>
 
 ### Design and Prototyping
 
-<div style="display:inline_block;margin-right: 80px">
+<div style="display:inline_block;margin-right:80px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
 </div>
 
 ### Development Tools
 
-<div style="display:inline_block;margin-right: 80px">
+<div style="display:inline_block;margin-right:80px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40" />
@@ -71,5 +71,7 @@
 
 ## 🔥 My Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snoorky&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky)
+<div style="display:flex;gap:0.5rem;align-items:start">
+  <img src="https://github-readme-stats.vercel.app/api?username=snoorky&show_icons=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoorky&layout=compact" height="150" alt="languages graph" />
+</div>
